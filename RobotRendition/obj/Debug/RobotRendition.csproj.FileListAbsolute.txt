@@ -1,0 +1,6 @@
+c:\users\t4ng1\documents\visual studio 2015\Projects\RobotRendition\RobotRendition\bin\Debug\RobotRendition.exe.config
+c:\users\t4ng1\documents\visual studio 2015\Projects\RobotRendition\RobotRendition\obj\Debug\RobotRendition.csprojResolveAssemblyReference.cache
+c:\users\t4ng1\documents\visual studio 2015\Projects\RobotRendition\RobotRendition\bin\Debug\RobotRendition.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\RobotRendition\RobotRendition\bin\Debug\RobotRendition.pdb
+c:\users\t4ng1\documents\visual studio 2015\Projects\RobotRendition\RobotRendition\obj\Debug\RobotRendition.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\RobotRendition\RobotRendition\obj\Debug\RobotRendition.pdb
